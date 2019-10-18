@@ -5,6 +5,8 @@ This is still a work in progress.
 
 I'll be gradually adding all the v2 functions and eventually expand this into an informational page with graphs and indicators... possibly write a bot algorithm to go with it!
 
+See example.php for usage examples!
+
 A full list of additional JSON array items can be found here: https://docs.bitfinex.com/v2/reference
 
 Requirements:
